@@ -20,7 +20,7 @@ This project shows an example of how to set up and install plugins in godot4 alp
 
 4. Import project
 
-Alternatively, copy godot-cpp-master and plugins folder into your own project and build them there.
+### Alternatively copy godot-cpp-master and plugins folder into your own project and build them there.
 
 If you decide to mess with the folder structure, make sure to update:
 
