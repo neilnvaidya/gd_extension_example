@@ -30,8 +30,8 @@ If you decide to mess with the folder structure, make sure to update:
 
 2. plugins/example_plugin/CMakeLists.txt
 
-      set(GODOT_HEADERS_PATH "relative_path_to_your_godot-headers_folder" CACHE STRING "Path to Godot headers")
-      set(CPP_BINDINGS_PATH "relative_path_to_your_godot-cpp-master_folder CACHE STRING "Path to C++ bindings
+       set(GODOT_HEADERS_PATH "relative_path_to_your_godot-headers_folder" CACHE STRING "Path to Godot headers")
+       set(CPP_BINDINGS_PATH "relative_path_to_your_godot-cpp-master_folder CACHE STRING "Path to C++ bindings
       
       
  ## Known Issues
